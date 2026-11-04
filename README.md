@@ -21,7 +21,7 @@ Four Machine Learning models have been implemented using Python, covering both R
 - **Total Records:** 4,269
 - **Total Features:** 13
 - **Source:** Kaggle
-- **Usage:** The dataset is described by the project owner as open-source and suitable for publication. Please retain the original Kaggle attribution and comply with the specific licence shown on the dataset's Kaggle page.
+- **Usage:** The dataset is described as open-source and suitable for publication. Please retain the original Kaggle attribution and comply with the specific licence shown on the dataset's Kaggle page.
 
 The dataset contains information about:
 
